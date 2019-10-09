@@ -1,0 +1,72 @@
+[
+    {
+        "employeeID": 1,
+        "fName": "Anh",
+        "lName": "Truong",
+        "salery": 60000,
+        "department": "Research"
+    },
+    {
+        "employeeID": 2,
+        "fName": "Marvin",
+        "lName": "Thapa Renteral",
+        "salery": 65000,
+        "department": "Production"
+    },
+    {
+        "employeeID": 3,
+        "fName": "Cesar",
+        "lName": "Gonzalez",
+        "salery": 73000,
+        "department": "Accounting"
+    },
+    {
+        "employeeID": 4,
+        "fName": "Alina",
+        "lName": "Madsourivong",
+        "salery": 55000,
+        "department": "Research"
+    },
+    {
+        "employeeID": 5,
+        "fName": "Nakia",
+        "lName": "Isler",
+        "salery": 54600,
+        "department": "Production"
+    },
+    {
+        "employeeID": 6,
+        "fName": "Amirah",
+        "lName": "Young",
+        "salery": 50000,
+        "department": "Purchasing"
+    },
+    {
+        "employeeID": 7,
+        "fName": "John",
+        "lName": "Nguyen",
+        "salery": 80000,
+        "department": "Marketing"
+    },
+    {
+        "employeeID": 8,
+        "fName": "Phuong",
+        "lName": "Nguyen",
+        "salery": 63000,
+        "department": "Purchasing"
+    },
+    {
+        "employeeID": 9,
+        "fName": "Abel",
+        "lName": "Perez",
+        "salery": 76000,
+        "department": "Accounting"
+    },
+    {
+        "employeeID": 10,
+        "fName": "Kiana",
+        "lName": "Truong",
+        "salery": 43200,
+        "department": "Puchasing"
+    }
+]
