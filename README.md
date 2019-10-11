@@ -1,6 +1,6 @@
 ## API-Node-Challenges
 
-This project was assigned as one of my challenges from Road to Hire, where we were tasked to make our own Express API endpoints to execute CRUD methods on the database we had. The JSON file was the database in which we were assigned to perform CRUD methods with. In this JSON file, it pertain all of the employees' information. I used Node and Express to build out all of my API endpoints.
+This was a challenge assigned to me during Road to Hire. We were tasked to make our own Express API endpoints to execute CRUD methods on the database we had. The JSON file was the database in which we were assigned to perform CRUD methods with. In this JSON file, it pertain all of the employees' information. I used Node and Express to build out all of my API endpoints.
 
 ## Getting Started
 
