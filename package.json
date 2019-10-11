@@ -1,7 +1,7 @@
 {
-  "name": "medium",
+  "name": "hard",
   "version": "1.0.0",
-  "description": "medium challenge",
+  "description": "hard challenge",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
